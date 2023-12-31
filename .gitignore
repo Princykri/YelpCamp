@@ -1,0 +1,6 @@
+.env
+/node_modules
+flowchart.text
+ImpNote.text
+MongoNotes.txt
+package-lock.json
